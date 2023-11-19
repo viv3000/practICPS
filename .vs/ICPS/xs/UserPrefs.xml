@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C7EB0B7B-45D5-4ADF-8BDB-4C2A33629C66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICPS/ICPS.cs">
+    <Files>
+      <File FileName="ICPS/ICPS.cs" Line="11" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ICPS" expanded="True">
+            <Node name="ICPS" expanded="True">
+              <Node name="References" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ICPS PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
